@@ -1,2 +1,5 @@
 # hello-world
-Hello World Test Repository
+
+Hi Guys!!
+
+Just startng with GitHub. Looks exciting !
