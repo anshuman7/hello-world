@@ -1,4 +1,4 @@
 # hello-world
 
-Just startng with GitHub.
+Just starting with GitHub.
 GGMU!
